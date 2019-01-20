@@ -2,17 +2,7 @@
   "name": "mtheroku",
   "description": "deploy mtheroku to Heroku.",
   "keywords": ["mtheroku"],
-  "env": {
-    "key1": {
-       "description": "描述",
-       "value1": "test"
-     }, 
-    "key2": {
-       "description": "描述",
-       "value2": "test"
-     }
-  },
-  "website": "https://github.com/yaohunzhanyue/mtheroku",
-  "repository": "https://github.com/yaohunzhanyue/mtheroku",
+  "website": "https://github.com/shotgunner/mtheroku",
+  "repository": "https://github.com/shotgunner/mtheroku",
   "stack": "container"
 }
